@@ -45,8 +45,8 @@ const RESOURCES = {
 "assets/packages/awesome_dialog/assets/flare/succes.flr": "ebae20460b624d738bb48269fb492edf",
 "assets/packages/awesome_dialog/assets/flare/succes_without_loop.flr": "3d8b3b3552370677bf3fb55d0d56a152",
 "assets/packages/awesome_dialog/assets/flare/info.flr": "bc654ba9a96055d7309f0922746fe7a7",
-"index.html": "b8db4d0b250d09f87ff6249a4ad67b53",
-"/": "b8db4d0b250d09f87ff6249a4ad67b53",
+"index.html": "b64fcebd4501bf6b57935777697d4725",
+"/": "b64fcebd4501bf6b57935777697d4725",
 "manifest.json": "51089a20489e8472af7fd39768eeec95"
 };
 
