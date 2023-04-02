@@ -14,6 +14,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "5e6bf7cc116fce960c1659387a27efb0",
 "icons/Icon-512.png": "9d5d38957b3e61c6ee5fc4ff69e585e8",
 "icons/Icon-maskable-192.png": "20b22ac96b7d8d5fcfca3aec97e97a2c",
+<<<<<<< HEAD
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/objects/9b/dbfcb9b1ed79ff22483cde3682c00bf3d645d4": "64fd8c161e7c2222ce178735eeae4ba2",
 ".git/objects/41/5c059c8094b888b0159fdedfd4e3cb08a8028e": "86914685ccd40e82a7fe5b70459fb9f7",
@@ -117,6 +118,9 @@ const RESOURCES = {
 ".git/refs/remotes/origin1/main": "fba8273030e6f2be377beac9a741ec13",
 ".git/COMMIT_EDITMSG": "0c59c6bddcca9d50c49fc7f59d83a9f7",
 "main.dart.js": "0d62cb66c5da380126d05900f974e5d3",
+=======
+"main.dart.js": "3a0d6e00d76101be486bb166e3c2a282",
+>>>>>>> e755a9ca11472c4bf80c96f285fb4b27dd931732
 "assets/FontManifest.json": "3ee9f0ca9fc3f340d8986145d82ea462",
 "assets/NOTICES": "fd98cdee77b49b0a1c85cc358b88eded",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -147,8 +151,13 @@ const RESOURCES = {
 "assets/packages/awesome_dialog/assets/flare/succes.flr": "ebae20460b624d738bb48269fb492edf",
 "assets/packages/awesome_dialog/assets/flare/succes_without_loop.flr": "3d8b3b3552370677bf3fb55d0d56a152",
 "assets/packages/awesome_dialog/assets/flare/info.flr": "bc654ba9a96055d7309f0922746fe7a7",
+<<<<<<< HEAD
 "index.html": "6138ad203a6dc1e15c7757090d4ae3e2",
 "/": "6138ad203a6dc1e15c7757090d4ae3e2",
+=======
+"index.html": "9e81dcb27d438ee03af08092cd657504",
+"/": "9e81dcb27d438ee03af08092cd657504",
+>>>>>>> e755a9ca11472c4bf80c96f285fb4b27dd931732
 "manifest.json": "51089a20489e8472af7fd39768eeec95"
 };
 
